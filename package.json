@@ -17,7 +17,7 @@
     "ansi-styles": "^3.2.1",
     "async": "^2.6.1",
     "async-validator": "^1.6.9",
-    "axios": "^0.15.3",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.23.0",
     "color-convert": "^1.9.3",
     "color-name": "^1.1.4",
