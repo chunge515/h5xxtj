@@ -30,7 +30,7 @@
     "moment": "^2.22.2",
     "strip-ansi": "^5.0.0",
     "supports-color": "^5.5.0",
-    "swiper": "^3.4.2",
+    "swiper": "^6.5.1",
     "vant": "^1.6.28",
     "vue": "2.3.0",
     "vue-datasource": "^1.0.4",
