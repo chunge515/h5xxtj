@@ -15,7 +15,7 @@
     "accepts": "^1.3.5",
     "amaze-vue": "^1.1.17",
     "ansi-styles": "^3.2.1",
-    "async": "^2.6.1",
+    "async": "^2.6.4",
     "async-validator": "^1.6.9",
     "axios": "^0.15.3",
     "babel-polyfill": "^6.23.0",
